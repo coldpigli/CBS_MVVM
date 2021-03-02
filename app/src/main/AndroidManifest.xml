@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginCBS">
-        <activity android:name=".MainActivity">
+        <activity android:name=".TermsAndConditionsActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
